@@ -8,4 +8,9 @@ My stack:
 - Git
 - SQL
 - Docker
+#
+Tasks:
 
+- improve my Git account
+- start working on Malware-Detection repository \
+- make some cheat sheets about cybersecurity tools
