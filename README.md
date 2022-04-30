@@ -12,7 +12,5 @@ My stack:
 Tasks:
 
 - improve my Git account
-- start working on Malware-Detection repository 
 - make some cheat sheets about cybersecurity tools
-- improve my PowerShell skills
 - improve my website parsing skills
