@@ -19,3 +19,9 @@ Tasks:
 - improve my Git account
 - make some cheat sheets about cybersecurity tools
 - improve my website parsing skills
+
+#
+
+Some statisic:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeregaDeveloper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
