@@ -1,5 +1,5 @@
 
- <h1 align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Square+Peg&size=28&duration=8000&color=219908&background=FFFAFB00&center=true&vCenter=true&multiline=true&lines=Software+developer+%26+CTF+player)](https://git.io/typing-svg) </a> 
+ <h1 align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Square+Peg&size=28&duration=8000&color=219908&background=FFFAFB00&center=true&vCenter=true&multiline=true&lines=Software+developer+%26+CTF+player)](https://git.io/typing-svg) </h1>
 ### Check out some of my ideas to improve our world
 #
 My stack:
