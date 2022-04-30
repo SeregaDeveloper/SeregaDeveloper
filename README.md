@@ -8,6 +8,8 @@ My stack:
 - Git
 - SQL
 - Docker
+- MongoDB
+
 #
 Tasks:
 
