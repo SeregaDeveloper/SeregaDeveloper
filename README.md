@@ -25,5 +25,6 @@ Tasks:
 Some statisic:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeregaDeveloper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeregaDeveloper&theme=solarized_dark)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeregaDeveloper)](https://github.com/anuraghazra/github-readme-stats)
