@@ -1,6 +1,6 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Square+Peg&size=28&duration=8000&color=219908&background=FFFAFB00&center=false&vCenter=true&multiline=true&lines=Software+developer+%26+CTF+player)](https://git.io/typing-svg)
-### My name is Serega
+
 #
 My stack:
 
