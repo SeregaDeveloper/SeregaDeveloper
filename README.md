@@ -2,7 +2,7 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Square+Peg&size=28&duration=8000&color=219908&background=FFFAFB00&center=false&vCenter=true&multiline=true&lines=Software+developer+%26+CTF+player)](https://git.io/typing-svg)
 
 #
-My stack:
+My skills:
 
 - Python3 
 - C++ 
@@ -12,6 +12,17 @@ My stack:
 - SQL
 - Docker
 - MongoDB
+
+My cybersecurity tools:
+
+- IDS: Suricata
+- XDR: KATAP
+- NTA: PT NAD
+- Sandboxing: Cuckoo Sandbox
+- Threat sharing: MISP
+- SIEM: MaxPatrol SIEM
+- IRP/SOAR: R-Vision
+- DLP: InfoWatch
 
 #
 Tasks:
