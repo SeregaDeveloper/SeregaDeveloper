@@ -19,10 +19,10 @@ My cybersecurity tools:
 - IDS: Suricata
 - XDR: KATAP
 - NTA: PT NAD
-- Sandboxing: Cuckoo Sandbox
+- Sandboxing: Cuckoo Sandbox, PT Sandbox
 - Threat sharing: MISP
-- SIEM: MaxPatrol SIEM
-- IRP/SOAR: R-Vision
+- SIEM: MaxPatrol SIEM, Wazuh
+- IRP/SOAR: R-Vision, TheHive
 - DLP: InfoWatch
 
 #
@@ -30,7 +30,6 @@ Tasks:
 
 - improve my Git account
 - make some cheat sheets about cybersecurity tools
-- improve my website parsing skills
 
 #
 
