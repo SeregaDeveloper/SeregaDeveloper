@@ -18,6 +18,7 @@ My cybersecurity tools:
 
 - IDS: Suricata, Zeek
 - XDR: KATAP
+- EDR: Velociraptor
 - NTA: PT NAD, Arkime
 - Sandboxing: Cuckoo Sandbox, PT Sandbox, Cape Sandbox
 - TIP: MISP, OpenCTI
