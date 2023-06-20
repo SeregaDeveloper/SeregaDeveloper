@@ -16,13 +16,13 @@ My skills:
 #
 My cybersecurity tools:
 
-- IDS: Suricata
+- IDS: Suricata, Zeek
 - XDR: KATAP
-- NTA: PT NAD
-- Sandboxing: Cuckoo Sandbox, PT Sandbox
-- Threat sharing: MISP
+- NTA: PT NAD, Arkime
+- Sandboxing: Cuckoo Sandbox, PT Sandbox, Cape Sandbox
+- TIP: MISP, OpenCTI
 - SIEM: MaxPatrol SIEM, Wazuh
-- IRP/SOAR: R-Vision, TheHive
+- IRP/SOAR: TheHive
 - DLP: InfoWatch
 
 #
