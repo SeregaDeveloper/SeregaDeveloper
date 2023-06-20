@@ -11,7 +11,7 @@ My skills:
 - Git
 - SQL
 - Docker
-- MongoDB
+- YARA
 
 #
 My cybersecurity tools:
@@ -25,6 +25,7 @@ My cybersecurity tools:
 - SIEM: MaxPatrol SIEM, Wazuh
 - IRP/SOAR: TheHive
 - DLP: InfoWatch
+
 
 #
 Tasks:
