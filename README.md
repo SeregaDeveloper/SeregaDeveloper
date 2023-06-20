@@ -25,7 +25,7 @@ My cybersecurity tools:
 - SIEM: MaxPatrol SIEM, Wazuh
 - IRP/SOAR: TheHive
 - DLP: InfoWatch
-
+- ELK Stack
 
 #
 Tasks:
