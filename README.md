@@ -15,7 +15,7 @@ My skills:
 #
 My cybersecurity stack:
 
-- IDS: Suricata, Zeek
+- IDS: Suricata
 - XDR: KATAP
 - EDR: Velociraptor, SOLDR
 - NTA: PT NAD, Arkime
