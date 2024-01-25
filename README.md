@@ -7,14 +7,13 @@ My skills:
 - Python3 
 - C++ 
 - C#
-- Shell
+- Bash
 - Git
 - SQL
 - Docker
-- YARA
 
 #
-My cybersecurity tools:
+My cybersecurity stack:
 
 - IDS: Suricata, Zeek
 - XDR: KATAP
