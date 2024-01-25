@@ -31,7 +31,6 @@ My cybersecurity tools:
 Tasks:
 
 - improve my Git account
-- make some cheat sheets about cybersecurity tools
 
 #
 
