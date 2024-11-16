@@ -24,6 +24,7 @@ My cybersecurity stack:
 - SIEM: MaxPatrol SIEM, Wazuh, ELK Stack
 - IRP/SOAR: TheHive, R-Vision, Security Vision
 - DLP: InfoWatch
+- YARA Rules
 
 #
 Tasks:
