@@ -20,7 +20,7 @@ My cybersecurity stack:
 - EDR: Velociraptor, SOLDR
 - NTA: PT NAD, Arkime
 - Sandbox: Cuckoo Sandbox, PT Sandbox, Cape Sandbox
-- TIP: MISP, OpenCTI
+- TIP: MISP, OpenCTI, R-Vision TIP
 - SIEM: MaxPatrol SIEM, Wazuh, ELK Stack
 - IRP/SOAR: TheHive, R-Vision, Security Vision
 - DLP: InfoWatch
